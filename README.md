@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/drumenbassik/4382d2f5-09fc-4f7b-aa6f-6df3deb445ef/5f574cbd-ff82-4d6b-add4-1470b3ce2603/_apis/work/boardbadge/b75c0238-cb72-4653-84d4-e862eb396e4c)](https://dev.azure.com/drumenbassik/4382d2f5-09fc-4f7b-aa6f-6df3deb445ef/_boards/board/t/5f574cbd-ff82-4d6b-add4-1470b3ce2603/Microsoft.RequirementCategory)
 ## GitHub Docs <!-- omit in toc -->
 
 This repository contains the documentation website code and Markdown source files for [docs.github.com](https://docs.github.com).
